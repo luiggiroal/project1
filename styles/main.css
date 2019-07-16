@@ -1,0 +1,38 @@
+/**/
+
+body {
+    font-family: arial;
+    font-size: 13px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+    font-family: verdana;
+}
+
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+header {
+    background: brown;
+}
+
+header a {
+    color: white;
+}
